@@ -128,3 +128,11 @@ obj
 appsettings.json
 local.settings.json
 .python_packages
+
+# VisualStudioCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
